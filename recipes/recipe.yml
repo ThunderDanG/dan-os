@@ -43,12 +43,6 @@ modules:
       - tldr
       # VM tools
       - virt-manager
-      # QT
-      - dolphin
-      - qt5-qtwayland
-      - breeze-icon-theme
-      - kvantum
-      - qt6-qtwayland
       # Other apps
       - texstudio
       # Extra tools
@@ -77,9 +71,6 @@ modules:
         # - org.mozilla.firefox
         # - org.gnome.Loupe
         # - one.ablaze.floorp//lightning # This is an example of flatpak which has multiple branches in selection (flatpak//branch).
-        - org.kde.ark
-        - org.kde.okular
-        - org.kde.gwenview
         - org.videolan.VLC
         - com.discordapp.Discord
         - com.bitwarden.desktop
