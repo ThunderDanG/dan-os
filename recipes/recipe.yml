@@ -49,8 +49,6 @@ modules:
       - breeze-icon-theme
       - kvantum
       - qt6-qtwayland
-      - qt5ct
-      - qt6ct
       # Other apps
       - texstudio
       # Extra tools
