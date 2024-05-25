@@ -2,7 +2,9 @@
 
 See the [BlueBuild docs](https://blue-build.org/how-to/setup/) for quick setup instructions for setting up your own repository based on this template.
 
-After setup, it is recommended you update this README to describe your custom image.
+This is my personal image. It may change at any point without warning. Setting up your own is very easy and highly recommended.
+This is currently based on the uBlue's Silverblue-nvidia image.
+It contains some additional packages, flatpaks, and v4l2loopback kernel module.
 
 ## Installation
 
