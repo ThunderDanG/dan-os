@@ -52,7 +52,6 @@ modules:
       - gcc-c++
       - cmake
       - make
-      - docker-compose
       - distrobox
       - npm
  
