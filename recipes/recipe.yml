@@ -43,6 +43,9 @@ modules:
       - tldr
       # VM tools
       - virt-manager
+      # SELinux tools
+      - setroubleshoot-server
+      - policycoreutils-python-utils
       # Other apps
       # Extra tools
       - gcc
