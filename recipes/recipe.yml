@@ -4,7 +4,7 @@ name: dan-os
 description: This is my personal OS image.
 
 # the base image to build on top of (FROM) and the version tag to use
-base-image: ghcr.io/ublue-os/bluefin-nvidia
+base-image: ghcr.io/ublue-os/silverblue-nvidia
 image-version: 40 # latest is also supported if you want new updates ASAP
 
 # module configuration, executed in order
@@ -85,9 +85,9 @@ modules:
       # Installing different branches of the same Flatpak is not supported.
       remove:
       # - org.gnome.eog
- #  - type: akmods
- #    install:
- #      - v4l2loopback
- # 
+  - type: akmods
+    install:
+      - v4l2loopback
+
   - type: signing # this sets up the proper policy & signing files for signed images to work fully
 
