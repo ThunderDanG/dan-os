@@ -55,7 +55,6 @@ modules:
       - cmake
       - make
       - distrobox
-      - npm
  
     remove:
       # example: removing firefox (in favor of the flatpak)
