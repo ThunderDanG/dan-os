@@ -50,10 +50,6 @@ modules:
       - https://proton.me/download/mail/linux/ProtonMail-desktop-beta.rpm
       - texstudio
       # Extra tools
-      - gcc
-      - gcc-c++
-      - cmake
-      - make
       - distrobox
  
     remove:
