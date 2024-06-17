@@ -42,7 +42,7 @@ modules:
       - procs
       - tldr
       # VM tools
-      - virt-manager
+      # - virt-manager
       # SELinux tools
       - setroubleshoot-server
       - policycoreutils-python-utils
