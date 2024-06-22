@@ -44,8 +44,8 @@ modules:
       # VM tools
       - virt-manager
       # SELinux tools
-       - setroubleshoot-server
-       - policycoreutils-python-utils
+      - setroubleshoot-server
+      - policycoreutils-python-utils
       # # Other apps
       - https://proton.me/download/mail/linux/ProtonMail-desktop-beta.rpm
       - texstudio
