@@ -51,6 +51,7 @@ modules:
       - texstudio
       # Extra tools
       - distrobox
+      - system76-keyboard-configurator
  
     remove:
       # example: removing firefox (in favor of the flatpak)
