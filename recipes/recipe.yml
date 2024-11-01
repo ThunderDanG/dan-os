@@ -31,6 +31,7 @@ modules:
       - duf
       - bat  
       - git-delta
+      - gitui
       - btop
       - procs
       - fzf
