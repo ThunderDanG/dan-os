@@ -52,8 +52,6 @@ modules:
       # Extra tools
       - distrobox
       - system76-keyboard-configurator
-      # DNS over https
-      - dnscrypt-proxy
  
     remove:
       # example: removing firefox (in favor of the flatpak)
