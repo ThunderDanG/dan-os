@@ -4,7 +4,7 @@ See the [BlueBuild docs](https://blue-build.org/how-to/setup/) for quick setup i
 
 This is my personal image. It may change at any point without warning. Setting up your own is very easy and highly recommended.
 This is currently based on the uBlue's Silverblue-nvidia image.
-It contains some additional packages, flatpaks, and v4l2loopback kernel module.
+It contains some additional packages, flatpaks, and the v4l2loopback kernel module.
 
 ## Installation
 
