@@ -25,14 +25,12 @@ modules:
       # Terminal
       - tmux
       - fish
-      - alacritty
       # modern cli tools
       - neovim
       - duf
       - bat  
       - git-delta
       - gitui
-      - btop
       - procs
       - fzf
       - lsd
@@ -77,6 +75,7 @@ modules:
         - com.github.tchx84.Flatseal
         - com.obsproject.Studio
         - com.obsproject.Studio.Plugin.BackgroundRemoval
+        - me.proton.Mail
       remove:
       # - org.gnome.eog
   - type: akmods
