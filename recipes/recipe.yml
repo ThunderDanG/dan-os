@@ -34,7 +34,6 @@ modules:
       - procs
       - fzf
       - lsd
-      - eza
       - fd-find
       - httpie
       - procs
